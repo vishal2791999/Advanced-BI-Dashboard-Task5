@@ -1,0 +1,3 @@
+Total Sales = SUM(Sheet1[Sales])
+Total Profit = SUM(Sheet1[Profit])
+Total Orders = COUNT(Sheet1[Order ID])
